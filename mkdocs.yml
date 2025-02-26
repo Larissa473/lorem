@@ -1,0 +1,7 @@
+site_name: Site de Larissa
+site_author: Larissa Martins 
+
+theme:
+  name: material
+  language: pt
+   
